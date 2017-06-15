@@ -19,7 +19,7 @@ Software Installed
 ### Apache2 server (Version 2.4.18)
 Modified */etc/apache2/sites-avilable/000-default.conf* file adding line *WSGIScriptAlias / /var/www/html/myapp.wsgi*
 
-###Postgresql (Version 9.5.7)
+### Postgresql (Version 9.5.7)
 
 Third Party Resources
 ---------------------
